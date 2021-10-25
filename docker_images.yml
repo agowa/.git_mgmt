@@ -1,0 +1,28 @@
+---
+images:
+  - https://github.com/agowa338/nextcloud.git:
+    - docker.io/agowa338/nextcloud:latest
+  - https://github.com/agowa338/dockerized-lutris.git:
+    - docker.io/agowa338/lutris:latest
+  - https://github.com/agowa338/syslog-ng-alpine.git:
+    - docker.io/agowa338/syslog-ng-alpine:latest
+  - https://github.com/agowa338/vmware_deployment_runner.git:
+    - docker.io/agowa338/vmware_deployment_runner:latest
+  - https://www.github.com/agowa338/ansible.git:
+    - docker.io/agowa338/ansible:latest
+  - https://www.github.com/agowa338/docker-vsftpd.git:
+    - docker.io/agowa338/docker-vsftpd:latest
+  - https://www.github.com/agowa338/tor-middle.git:
+    - docker.io/agowa338/tor-middle:latest
+  - https://www.github.com/agowa338/docker-newsboat.git:
+    - docker.io/agowa338/newsboat:latest
+  - https://www.github.com/agowa338/docker-texlive.git:
+    - docker.io/agowa338/texlive:latest
+  - https://www.github.com/agowa338/docker-nuget-server.git:
+    - docker.io/agowa338/docker-nuget-server:latest
+  - https://www.github.com/agowa338/docker-aws-tools.git:
+    - docker.io/agowa338/docker-aws-tools:latest
+  - https://github.com/agowa338/dockerized-gitlab.git:
+    - docker.io/agowa338/gitlab-ce:latest
+  - https://github.com/agowa338/forestry-jekyll.git:
+    - docker.io/agowa338/forestry-jekyll:latest

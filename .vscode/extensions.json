@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "vscode-icons-team.vscode-icons",
+        "vscodevim.vim",
+        "wayou.vscode-todo-highlight",
+        "ms-vscode-remote.remote-containers",
+        "ms-azuretools.vscode-docker",
+        "oderwat.indent-rainbow",
+        "ms-python.python",
+        "mechatroner.rainbow-csv",
+        "editorconfig.editorconfig"
+    ]
+}
