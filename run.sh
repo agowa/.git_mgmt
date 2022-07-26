@@ -12,5 +12,6 @@ pip install -r requirements.txt
 
 # Actions
 ./docker_images.py
+./git_sync.py
 
 # Cleanup
