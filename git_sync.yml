@@ -49,3 +49,6 @@ pull:
   - https://github.com/drawrowfly/tiktok-scraper.git:
     - git@github.com:agowa338/tiktok-scraper.git
     - git@gitlab.agowa338.de:agowa338-forks/tiktok-scraper.git
+  - https://github.com/Developer-Y/cs-video-courses.git:
+    - git@github.com:agowa338/cs-video-courses.git
+    - git@gitlab.agowa338.de:agowa338-forks/cs-video-courses.git
