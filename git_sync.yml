@@ -41,14 +41,16 @@ pull:
   - https://github.com/bundestag/dip21-scraper.git:
     - git@gitlab.agowa338.de:agowa338-forks/bundestag/dip21-scraper.git
   - https://github.com/trickest/cve.git:
-    - git@github.com:agowa338/cve.git
     - git@gitlab.agowa338.de:agowa338-forks/cve.git
   - https://github.com/evilbuffer/malware-and-exploitdev-resources.git:
-    - git@github.com:agowa338/malware-and-exploitdev-resources.git
     - git@gitlab.agowa338.de:agowa338-forks/malware-and-exploitdev-resources.git
   - https://github.com/drawrowfly/tiktok-scraper.git:
-    - git@github.com:agowa338/tiktok-scraper.git
     - git@gitlab.agowa338.de:agowa338-forks/tiktok-scraper.git
   - https://github.com/Developer-Y/cs-video-courses.git:
-    - git@github.com:agowa338/cs-video-courses.git
     - git@gitlab.agowa338.de:agowa338-forks/cs-video-courses.git
+  - https://github.com/kkent030315/evil-mhyprot-cli.git:
+    - git@gitlab.agowa338.de:agowa338-forks/evil-mhyprot-cli.git
+  - https://github.com/ddclient/ddclient.git:
+    - git@gitlab.agowa338.de:agowa338-forks/ddclient.git
+  - https://github.com/Kudaes/Elevator.git:
+    - git@gitlab.agowa338.de:agowa338-forks/Elevator.git
