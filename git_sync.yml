@@ -54,3 +54,5 @@ pull:
     - git@gitlab.agowa338.de:agowa338-forks/ddclient.git
   - https://github.com/Kudaes/Elevator.git:
     - git@gitlab.agowa338.de:agowa338-forks/Elevator.git
+  - https://github.com/bleachbit/bleachbit.git:
+    - git@gitlab.agowa338.de:agowa338-forks/bleachbit.git
