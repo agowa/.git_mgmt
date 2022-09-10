@@ -56,3 +56,5 @@ pull:
     - git@gitlab.agowa338.de:agowa338-forks/Elevator.git
   - https://github.com/bleachbit/bleachbit.git:
     - git@gitlab.agowa338.de:agowa338-forks/bleachbit.git
+  - https://github.com/bleachbit/winapp2.ini.git:
+    - git@gitlab.agowa338.de:agowa338-forks/winapp2.ini.git
