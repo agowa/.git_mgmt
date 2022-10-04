@@ -8,6 +8,7 @@
         "oderwat.indent-rainbow",
         "ms-python.python",
         "mechatroner.rainbow-csv",
-        "editorconfig.editorconfig"
+        "editorconfig.editorconfig",
+        "ms-python.vscode-pylance"
     ]
 }
