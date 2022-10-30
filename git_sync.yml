@@ -64,3 +64,5 @@ pull:
     - git@gitlab.agowa338.de:agowa338-forks/freetz.git
   - https://github.com/MultiMC/Launcher.git:
     - git@gitlab.agowa338.de:agowa338-forks/multimc-launcher.git
+  - https://github.com/LSPosed/MagiskOnWSALocal.git:
+    - git@gitlab.agowa338.de:agowa338-forks/MagiskOnWSALocal.git
