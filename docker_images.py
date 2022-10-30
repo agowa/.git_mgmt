@@ -16,7 +16,7 @@ for _elem  in _yaml["images"]:
     with TemporaryDirectory() as _tmp_dir:
       # Clone git repository
       Repo.clone_from(_git, _tmp_dir, multi_options=["--recurse-submodules","--remote-submodules"])
-      print("Cloned {0} into {1}".format(_git, _tmp_dir))
+      print(f"Cloned {_git} into {_tmp_dir}")
       # Build docker container
       _client = docker.from_env()
       _image,_ = _client.images.build(path=_tmp_dir, pull=True, rm=True)
@@ -24,7 +24,7 @@ for _elem  in _yaml["images"]:
       _image.tag(_tags)
       # Upload image to registries
       for _tag in _tags:
-        print("Pushing {0} to {1}".format(_git, _tag))
+        print(f"Pushing {_git} to {_tag}")
         _repository, _flag = _tag.split(":")
         print("========================================")
         for line in _client.api.push(repository=_repository, tag=_flag, stream=True, decode=True):

@@ -1,6 +1,8 @@
 #/bin/bash
 
 # Init
+export SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+export GIT_SSH_COMMAND="ssh -o ForwardAgent=no -o UserKnownHostsFile='$SCRIPT_DIR/known_hosts' -o ControlMaster=auto -o ControlPersist=60s -o PreferredAuthentications=publickey"
 if [ -z $TMUX ]
 then
     tmux new-session './run.sh'
