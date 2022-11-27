@@ -66,3 +66,12 @@ pull:
     - git@gitlab.agowa338.de:agowa338-forks/multimc-launcher.git
   - https://github.com/LSPosed/MagiskOnWSALocal.git:
     - git@gitlab.agowa338.de:agowa338-forks/MagiskOnWSALocal.git
+
+  - git@github.com:agowa338/.git_mgmt.git:
+    - git@gitlab.agowa338.de:agowa338/git-mgmt.git
+  - git@gitlab.agowa338.de:agowa338-docker/vmware_deployment_runner.git:
+    - git@github.com:agowa338/vmware_deployment_runner.git
+  - git@github.com:agowa338/forestry-jekyll.git:
+    - git@gitlab.agowa338.de:agowa338-docker/forestry-jekyll.git
+  - git@github.com:agowa338/dockerized-lutris.git:
+    - git@gitlab.agowa338.de:agowa338-docker/dockerized-lutris.git
